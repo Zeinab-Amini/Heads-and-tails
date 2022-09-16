@@ -1,3 +1,6 @@
+In this project, i imported the library "random".
+Then it chooses randomly and with an if statement, it eaither prints heads or tails. 
+
 ## Heads or Tails
 
 # UPDATE
